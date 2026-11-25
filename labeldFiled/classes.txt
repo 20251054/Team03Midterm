@@ -1,6 +1,7 @@
 AIGlasses
 AIGlasses_Lens
 NormalGlasses
+NoGlasses
 dog
 person
 cat
